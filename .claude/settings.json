@@ -1,0 +1,24 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(node check.js)",
+      "Bash(node check2.js)",
+      "Bash(netstat -ano)",
+      "Bash(taskkill //PID 22144 //F)",
+      "Bash(taskkill /PID 22144 /F)",
+      "Bash(rm -f dev.log)",
+      "Bash(rtk grep *)",
+      "Bash(node check3.js)",
+      "Bash(taskkill /PID 12292 /F)",
+      "Bash(taskkill /PID 8740 /F)",
+      "Bash(node check4.js)",
+      "Bash(node check5.js)",
+      "Bash(taskkill /PID 15016 /F)",
+      "Bash(taskkill /PID 22964 /F)",
+      "Bash(npm uninstall *)",
+      "Bash(tasklist)",
+      "Bash(rtk prisma *)",
+      "Bash(openssl rand *)"
+    ]
+  }
+}
