@@ -18,7 +18,8 @@
       "Bash(npm uninstall *)",
       "Bash(tasklist)",
       "Bash(rtk prisma *)",
-      "Bash(openssl rand *)"
+      "Bash(openssl rand *)",
+      "Bash(rtk ls *)"
     ]
   }
 }
