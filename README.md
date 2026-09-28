@@ -61,3 +61,4 @@ Botão "▶️ Preview" na barra superior. Simula a conversa a partir do bloco i
 
 O projeto é salvo automaticamente no `localStorage` do navegador a cada alteração.
 
+> Leandro Sobrinho
