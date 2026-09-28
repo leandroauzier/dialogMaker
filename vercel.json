@@ -1,8 +1,8 @@
 {
   "crons": [
     {
-      "path": "/api/ping",
-      "schedule": "0 12 */5 * *"
+      "path": "/api/health",
+      "schedule": "0 12 * * *"
     }
   ]
 }
